@@ -1,0 +1,93 @@
+
+
+.header {
+  text-align: center;
+  font-family: "Questrial", sans-serif;
+  color: black;
+  font-size: 1em;
+  margin-top: auto;
+}
+
+p {
+  text-align: left;
+  font-family: "Questrial", sans-serif;
+  border: 2px;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+
+.contact {
+  text-align: center;
+  font-family: "Questrial", sans-serif;
+  font-size: 2em;
+  color: #1e63a4;
+}
+
+body {
+  background-color: white;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background-color: white;
+}
+
+h1 {
+  font-family: "Questrial", sans-serif;
+  color: #1e63a4;
+  text-align: left;
+  margin-left: 2.5em;
+}
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+  border-radius: 25%;
+}
